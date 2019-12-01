@@ -4,10 +4,10 @@
 	https://documenter.getpostman.com/view/1261739/SWDzeLgW
 
 ## Start
-1. Install Node.JS latest version
-2. Install PostgreSQL
-3. Clone this repository
-4. Install dependencies, just run in project folder: npm install
+1. Instalar Node.JS
+2. Instalar PostgreSQL
+3. Clonar este repositório
+4. Instalar dependencias, executar o commando na pasta do projeto: `npm install`
 
 ## Config
 
