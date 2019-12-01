@@ -4,15 +4,14 @@
 	https://documenter.getpostman.com/view/1261739/SWDzeLgW
 
 ## Start
-
-### 1. Install Node.JS latest version
-### 2. Install PostgreSQL
-### 3. Clone this repository
-### 4. Install dependencies, just run in project folder: npm install
+1. Install Node.JS latest version
+2. Install PostgreSQL
+3. Clone this repository
+4. Install dependencies, just run in project folder: npm install
 
 ## Config
 
-### modifique o nome do arquivo .env.example para .env e ajuste a configuração:
+### Modifique o nome do arquivo .env.example para .env e ajuste a configuração:
 	PORT=3000
 	DATABASE=postgres://postgres:password@localhost:5432/databasename
 	SECRET=mysupersecret
